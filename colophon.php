@@ -1,6 +1,34 @@
-<?php $thisPage="Colophon"; ?>
-<?php include "inc/html-top.inc"; ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Project 1- Regional Foods</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="sss/sss.css">
+  <link rel="stylesheet" href="css/custom.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/">
+
+</head>
 <body>
 	<div class="container">
 
@@ -8,8 +36,51 @@
     	<h1>Regional Foods</h1>
     </header>
     
-	<?php include "inc/nav.inc"; ?>
+	   <nav class="horizontal-nav">
 
+   
+     <ul>
+        <li id="icon">
+      <a href="javascript:void(0);" onclick="mobileFriend()">&#9776;</a>
+    </li>
+        <li> 
+        	<a class="button" href="index.php">Home</a></li>
+
+        <li> 
+        	<a class="button" href="chinese-foods.php">Chinese Food</a></li>
+        <li> 
+        	<a class="button" href="italian-foods.php">Italian Food</a></li>
+        <li> 
+        	<a class="button" href="north-american-foods.php">North American Food</a></li>
+	<li class="currentpage"> 
+		<a class="button" href="colophon.php">Colophon</a></li>
+  <!-- nav - ham -->
+    
+      </ul>
+
+      <script type="text/javascript">
+      var pulledDown = false;
+      function mobileFriend () {
+        
+        if(!pulledDown){
+           document.getElementsByTagName('li')[1].style.display = "inline";
+          document.getElementsByTagName('li')[2].style.display = "inline";
+          document.getElementsByTagName('li')[3].style.display = "inline";
+          document.getElementsByTagName('li')[4].style.display = "inline";
+          pulledDown = !pulledDown;
+        } else {
+          document.getElementsByTagName('li')[1].style.display = "none";
+          document.getElementsByTagName('li')[2].style.display = "none";
+          document.getElementsByTagName('li')[3].style.display = "none";
+          document.getElementsByTagName('li')[4].style.display = "none";
+          pulledDown = !pulledDown;p
+        }
+       
+      }
+      </script>
+      
+
+    </nav>
 		<article>
 			<h2>Team Roles and Responsibilities</h2>
 
@@ -121,8 +192,10 @@
           
 
 
-	<?php include "inc/footer.inc"; ?>
+	<footer>
+			<p>Webpage created by Miranda Lakis, Luka Sherman, Meichuanzi Shi, Lerong Wang and Tiffany White</p>
 
+</footer>
 	</div><!--.container-->
 		
 </body>

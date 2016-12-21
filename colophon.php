@@ -136,9 +136,10 @@
 
 					<td> Create the homepage slideshow and responsible for implementing all JavaScript functionality on the website. </td>
 
-
+					</tr>
 
 			</table>
+			</section>
 
 
 		</article>

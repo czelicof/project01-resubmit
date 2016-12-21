@@ -152,13 +152,12 @@
 	             <li>
 	             	Drain all but 2 tablespoons of the peanut oil from the skillet and return to medium heat. Once the oil shimmers, add the onion and cook until softened and lightly browned around the edges, about 3 to 4 minutes. Add the ground meat, 1 teaspoon salt, and garlic. Cook until browned, about 3 to 4 minutes, stirring occasionally, to break up the meat. Add Taco Potion and beef broth. Bring to a simmer and cook, uncovered, until sauce is slightly thickened, 2 to 3 minutes. Assemble each taco with meat mixture, panela, jalapeno slices, lettuce, tomatoes, and cilantro. Serve immediately.
 	             </li>
-
+	             </ol>
 
 			</article>
 
 			<section class="Citations">
 
-			<p>
 	          <h5>Citations</h5>
 	              <ul>
 	                     <li>American Food - American Cuisine. (n.d.). Retrieved October 09, 2016, from <a href="http://www.worldwidewebawards.net/Food/North_America.html">http://www.worldwidewebawards.net/Food/North_America.html</a></li>
@@ -170,7 +169,6 @@
 	                     <li>Mexican cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Mexican_cuisine">https://en.wikipedia.org/wiki/Mexican_cuisine</a></li>
 
                  </ul>			
-			</p>
 
 		</section>
 

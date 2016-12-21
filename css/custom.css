@@ -134,7 +134,7 @@ padding:10px;
 p{padding: 5px}
 
 .column1 {
-	width:48%;
+	width:47%;
 	max-width: 400px;
 	float: left;
 	vertical-align: top;
@@ -144,13 +144,13 @@ p{padding: 5px}
 
 }
 
-article.column1 {
-	width:40%;
-
+article{
+	width:100%;
+	padding: 4px;
 }
 
 .column2 {
-	width:48%;
+	width:47%;
 	max-width: 400px;
 	float: left;
 	vertical-align: top;

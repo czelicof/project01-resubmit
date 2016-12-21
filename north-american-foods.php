@@ -114,7 +114,7 @@
 		     </article>
 
 
-<aside class="column2">
+<article class="column2">
 
 		     <h3>Mexican Foods</h3>
 			<figure>
@@ -130,11 +130,11 @@
 				The best known of Mexico’s street foods is the taco, whose origin is based on the pre-Hispanic custom of picking up other foods with tortillas as utensils were not used.[10] The origin of the word is in dispute, with some saying it is derived from Nahuatl and others from various Spanish phrases.[33] Tacos are not eaten as the main meal; they are generally eaten before midday or late in the evening. Just about any other foodstuff can be wrapped in a tortilla, and in Mexico, it varies from rice, to meat (plain or in sauce), to cream, to vegetables, to cheese, or simply with plain chile peppers or fresh salsa. Preferred fillings vary from region to region with pork generally found more often in the center and south, beef in the north, seafood along the coasts, and chicken and lamb in most of the country.[34]
 			</p>
 
-		</aside>
+		</article>
 
+		<br>
 		
-		
-		<article>
+		<aside>
 	        
 	             <h3>Recipe for Tacos</h3>
 
@@ -154,7 +154,7 @@
 	             </li>
 	             </ol>
 
-			</article>
+			</aside>
 
 			<section class="Citations">
 

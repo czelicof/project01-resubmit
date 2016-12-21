@@ -4,6 +4,10 @@
 }
 
 
+p.clear {
+    clear: both;
+}
+
 .horizontal-nav ul {
 list-style-type: none;
 margin: 0;
@@ -94,13 +98,17 @@ footer {
 	background:orange;
 	vertical-align: middle;
 	text-align: center;
+	clear:both;
 	width:
+
+
 
 
 }
 
 body {
 	font-family:Georgia, serif;
+	background-color: #fff9e6;
 }
 
 figure {
@@ -124,15 +132,15 @@ padding:10px;
 }
 
 
+p{padding: 5px}
+
 .column1 {
 	width:48%;
 	max-width: 400px;
 	float: left;
 	vertical-align: top;
 	background: #d9d9d9;
-	padding-left: 10px;
-	padding-right: 20px;
-	height: 1500px;
+	height: auto;
 	text-align: justify;
 
 }
@@ -143,31 +151,31 @@ article.column1 {
 }
 
 .column2 {
-	width:46%;
-	display: inline-block;
+	width:48%;
+	max-width: 400px;
+	float: left;
 	vertical-align: top;
-	padding: 10px;
 	background: #660000;
 	color: #fff9e6;;
-	padding-left: 10px;
-	padding-right: 10px;
-	height: 1480px;
-	margin-left: 70px;
+	height: auto;
 	text-align: justify;
-
 
 }
 
 .Citations {
 	font-size: 12px;
+	clear: both;
 }
 
+img{
+	display: block;
+	margin: auto;}
 
 figure img {
 
-	height:200px;
-	width: 200px;
+	display: block
 	margin: auto;
+
 	
 }
 
@@ -177,14 +185,17 @@ figcaption {
 
 
 #photo img {
-	height:300px;
-	width: 415px;
 	padding: 0;
+	display: block
+	margin: auto;
 }
 
 #photo {
 	margin: 0;
+		display: block
+	margin: auto;
 }
+
 
 .column-value1 {
 	background-color: #660000;
@@ -199,16 +210,18 @@ figcaption {
 	background-color: orange;
 	color:navy;
 	padding: 10px;
-	margin:5px 0px;
+	display: block;
+	margin: auto;
 
 
 }
 
 .column-value3 {
 	background-color: #d9d9d9;
-	color:nav
+	color:navy
 	padding: 10px;
-	margin:5px 0px;
+	display: block;
+	margin: auto;
 
 
 }
@@ -221,7 +234,6 @@ figcaption {
 @media (max-width: 1100px) {
 
   #photo img {
-  	height:30%;
   	width: auto;;
   	padding: 0;
   }
@@ -230,7 +242,6 @@ figcaption {
     	width:100%;
       max-width: none;
     	vertical-align: top
-    	padding: 10px;
       max-width: none;
   }
 
@@ -242,10 +253,9 @@ figcaption {
   .column2 {
   	width:100%;
     max-width: none;
-    margin:10px;
   	vertical-align: top;
-  	padding: 10px;
-    float:left;
+    float:right;
+
   }
   article.column2 {
   	width:100%;

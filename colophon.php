@@ -63,16 +63,18 @@
       function mobileFriend () {
         
         if(!pulledDown){
-           document.getElementsByTagName('li')[1].style.display = "inline";
+          document.getElementsByTagName('li')[1].style.display = "inline";
           document.getElementsByTagName('li')[2].style.display = "inline";
           document.getElementsByTagName('li')[3].style.display = "inline";
           document.getElementsByTagName('li')[4].style.display = "inline";
+          document.getElementsByTagName('li')[5].style.display = "inline";
           pulledDown = !pulledDown;
         } else {
           document.getElementsByTagName('li')[1].style.display = "none";
           document.getElementsByTagName('li')[2].style.display = "none";
           document.getElementsByTagName('li')[3].style.display = "none";
           document.getElementsByTagName('li')[4].style.display = "none";
+          document.getElementsByTagName('li')[5].style.display = "none";
           pulledDown = !pulledDown;p
         }
        

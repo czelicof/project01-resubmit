@@ -60,7 +60,7 @@
       function mobileFriend () {
         
         if(!pulledDown){
-           document.getElementsByTagName('li')[1].style.display = "inline";
+          document.getElementsByTagName('li')[1].style.display = "inline";
           document.getElementsByTagName('li')[2].style.display = "inline";
           document.getElementsByTagName('li')[3].style.display = "inline";
           document.getElementsByTagName('li')[4].style.display = "inline";

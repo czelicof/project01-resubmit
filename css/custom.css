@@ -99,7 +99,6 @@ footer {
 	vertical-align: middle;
 	text-align: center;
 	clear:both;
-	width:
 
 
 
@@ -171,9 +170,15 @@ img{
 	display: block;
 	margin: auto;}
 
+video{
+
+	display: block;
+	margin:  auto;
+}
+
 figure img {
 
-	display: block
+	display: block;
 	margin: auto;
 
 	
@@ -186,13 +191,13 @@ figcaption {
 
 #photo img {
 	padding: 0;
-	display: block
+	display: block;
 	margin: auto;
 }
 
 #photo {
 	margin: 0;
-		display: block
+		display: block;
 	margin: auto;
 }
 
@@ -218,7 +223,7 @@ figcaption {
 
 .column-value3 {
 	background-color: #d9d9d9;
-	color:navy
+	color:navy;
 	padding: 10px;
 	display: block;
 	margin: auto;
@@ -241,7 +246,7 @@ figcaption {
    .column1  {
     	width:100%;
       max-width: none;
-    	vertical-align: top
+    	vertical-align: top;
       max-width: none;
   }
 

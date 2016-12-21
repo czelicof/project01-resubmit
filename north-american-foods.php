@@ -109,7 +109,7 @@
 		     	Some dishes that are typically considered American have their origins in other countries. American cooks and chefs have substantially altered these dishes over the years, to the degree that the dishes now enjoyed around the world are considered to be American. Hot dogs and hamburgers are both based on traditional German dishes, but in their modern popular form they can be reasonably considered American dishes.[29]
 		     </p>
 
-		     <iframe class="video" width="370" height="350" src="http://www.foodnetwork.com/videos/an-all-american-chopped-0192855.embed.html" frameborder="0" allowfullscreen></iframe>
+		     <iframe class="video" width="400" height="275" align="middle" src="http://www.foodnetwork.com/videos/an-all-american-chopped-0192855.embed.html" frameborder="0" allowfullscreen></iframe>
 
 		     </article>
 

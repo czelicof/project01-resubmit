@@ -40,19 +40,17 @@
    
      <ul>
         <li id="icon">
-      <a href="javascript:void(0);" onclick="mobileFriend()">&#9776;</a>
-    </li>
+      		<a href="javascript:void(0);" onclick="mobileFriend()">&#9776;</a></li>
         <li> 
         	<a class="button" href="index.php">Home</a></li>
-
         <li class="currentpage"> 
         	<a class="button" href="chinese-foods.php">Chinese Food</a></li>
         <li> 
         	<a class="button" href="italian-foods.php">Italian Food</a></li>
         <li> 
         	<a class="button" href="north-american-foods.php">North American Food</a></li>
-	<li> 
-		<a class="button" href="colophon.php">Colophon</a></li>
+		<li> 
+			<a class="button" href="colophon.php">Colophon</a></li>
   <!-- nav - ham -->
     
       </ul>
@@ -66,12 +64,14 @@
           document.getElementsByTagName('li')[2].style.display = "inline";
           document.getElementsByTagName('li')[3].style.display = "inline";
           document.getElementsByTagName('li')[4].style.display = "inline";
+          document.getElementsByTagName('li')[5].style.display = "inline";
           pulledDown = !pulledDown;
         } else {
           document.getElementsByTagName('li')[1].style.display = "none";
           document.getElementsByTagName('li')[2].style.display = "none";
           document.getElementsByTagName('li')[3].style.display = "none";
           document.getElementsByTagName('li')[4].style.display = "none";
+          document.getElementsByTagName('li')[5].style.display = "none";
           pulledDown = !pulledDown;p
         }
        

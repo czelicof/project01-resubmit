@@ -131,10 +131,8 @@
 			</p>
 
 		</article>
-
-		<br>
 		
-		<aside>
+		<aside class="recipe">
 	        
 	             <h3>Recipe for Tacos</h3>
 

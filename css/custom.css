@@ -44,6 +44,23 @@ color: black;
 	padding: 20px 10px 10px 20px;
 }
 
+.recipe h3{
+	background-color: teal;
+	color: white;
+}
+
+.recipe p{
+	background-color: teal;
+	color:white;
+}
+
+.recipe {
+	vertical-align: top;
+	background-color: teal;
+	height: auto;
+	text-align: justify;
+	text-align: center;
+}
 
 h2 {
 	color: #660000;
@@ -99,10 +116,6 @@ footer {
 	vertical-align: middle;
 	text-align: center;
 	clear:both;
-
-
-
-
 }
 
 body {
@@ -118,20 +131,19 @@ ul{
 	list-style-type: square;
 	color:navy;
 	text-align:left;
-
-
-
 }
 
 ol {
 	background-color: teal;
-color:white;
-padding:10px;
+	color:white;
+	padding:10px;
 
 }
 
 
-p{padding: 5px}
+p{
+	padding: 5px;
+}
 
 .column1 {
 	width:48%;
@@ -208,16 +220,6 @@ figcaption {
 
 .column-value2 {
 	background-color: orange;
-	color:navy;
-	padding: 10px;
-	display: block;
-	margin: auto;
-
-
-}
-
-.column-value3 {
-	background-color: #d9d9d9;
 	color:navy;
 	padding: 10px;
 	display: block;

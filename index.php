@@ -16,6 +16,7 @@
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
@@ -73,6 +74,7 @@
           document.getElementsByTagName('li')[3].style.display = "none";
           document.getElementsByTagName('li')[4].style.display = "none";
           document.getElementsByTagName('li')[5].style.display = "none";
+
           pulledDown = !pulledDown;p
         }
        

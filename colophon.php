@@ -16,7 +16,7 @@
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-  
+
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
@@ -63,7 +63,7 @@
       function mobileFriend () {
         
         if(!pulledDown){
-          document.getElementsByTagName('li')[1].style.display = "inline";
+           document.getElementsByTagName('li')[1].style.display = "inline";
           document.getElementsByTagName('li')[2].style.display = "inline";
           document.getElementsByTagName('li')[3].style.display = "inline";
           document.getElementsByTagName('li')[4].style.display = "inline";
@@ -136,10 +136,9 @@
 
 					<td> Create the homepage slideshow and responsible for implementing all JavaScript functionality on the website. </td>
 
-					</tr>
+
 
 			</table>
-			</section>
 
 
 		</article>

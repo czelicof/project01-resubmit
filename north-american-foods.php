@@ -16,7 +16,7 @@
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-  
+
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
@@ -109,12 +109,12 @@
 		     	Some dishes that are typically considered American have their origins in other countries. American cooks and chefs have substantially altered these dishes over the years, to the degree that the dishes now enjoyed around the world are considered to be American. Hot dogs and hamburgers are both based on traditional German dishes, but in their modern popular form they can be reasonably considered American dishes.[29]
 		     </p>
 
-		     <iframe class="video" width="400" height="275" align="middle" src="http://www.foodnetwork.com/videos/an-all-american-chopped-0192855.embed.html" frameborder="0" allowfullscreen></iframe>
+		     <iframe class="video" width="370" height="350" src="http://www.foodnetwork.com/videos/an-all-american-chopped-0192855.embed.html" frameborder="0" allowfullscreen></iframe>
 
 		     </article>
 
 
-<article class="column2">
+<aside class="column2">
 
 		     <h3>Mexican Foods</h3>
 			<figure>
@@ -130,9 +130,11 @@
 				The best known of Mexico’s street foods is the taco, whose origin is based on the pre-Hispanic custom of picking up other foods with tortillas as utensils were not used.[10] The origin of the word is in dispute, with some saying it is derived from Nahuatl and others from various Spanish phrases.[33] Tacos are not eaten as the main meal; they are generally eaten before midday or late in the evening. Just about any other foodstuff can be wrapped in a tortilla, and in Mexico, it varies from rice, to meat (plain or in sauce), to cream, to vegetables, to cheese, or simply with plain chile peppers or fresh salsa. Preferred fillings vary from region to region with pork generally found more often in the center and south, beef in the north, seafood along the coasts, and chicken and lamb in most of the country.[34]
 			</p>
 
-		</article>
+		</aside>
+
 		
-		<aside>
+		
+		<article>
 	        
 	             <h3>Recipe for Tacos</h3>
 
@@ -150,12 +152,13 @@
 	             <li>
 	             	Drain all but 2 tablespoons of the peanut oil from the skillet and return to medium heat. Once the oil shimmers, add the onion and cook until softened and lightly browned around the edges, about 3 to 4 minutes. Add the ground meat, 1 teaspoon salt, and garlic. Cook until browned, about 3 to 4 minutes, stirring occasionally, to break up the meat. Add Taco Potion and beef broth. Bring to a simmer and cook, uncovered, until sauce is slightly thickened, 2 to 3 minutes. Assemble each taco with meat mixture, panela, jalapeno slices, lettuce, tomatoes, and cilantro. Serve immediately.
 	             </li>
-	             </ol>
 
-			</aside>
+
+			</article>
 
 			<section class="Citations">
 
+			<p>
 	          <h5>Citations</h5>
 	              <ul>
 	                     <li>American Food - American Cuisine. (n.d.). Retrieved October 09, 2016, from <a href="http://www.worldwidewebawards.net/Food/North_America.html">http://www.worldwidewebawards.net/Food/North_America.html</a></li>
@@ -167,6 +170,7 @@
 	                     <li>Mexican cuisine. (n.d.). Retrieved October 09, 2016, from <a href="https://en.wikipedia.org/wiki/Mexican_cuisine">https://en.wikipedia.org/wiki/Mexican_cuisine</a></li>
 
                  </ul>			
+			</p>
 
 		</section>
 

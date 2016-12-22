@@ -15,8 +15,8 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400i,700,700i|Open+Sans:400,400i,700,700i" rel="stylesheet" type="text/css">
-
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
@@ -132,7 +132,7 @@
 
 		</article>
 		
-		<aside class="recipe">
+		<aside>
 	        
 	             <h3>Recipe for Tacos</h3>
 

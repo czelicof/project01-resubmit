@@ -42,32 +42,12 @@ color: black;
 	padding: 20px 10px 10px 20px;
 }
 
-.recipe h3{
-	background-color: teal;
-	color: white;
-}
-
-.recipe p{
-	background-color: teal;
-	color:white;
-}
-
-.recipe {
-	vertical-align: top;
-	background-color: teal;
-	height: auto;
-	text-align: justify;
-	text-align: center;
-}
-
 h2 {
-	font-size: 45px;
 	color: #660000;
 	font-style:italic;
 }
 
 h3 {
-	font-size: 36px;
 	text-align: center;
 }
 
@@ -81,7 +61,7 @@ h4 {
 }
 
 html {
-	font-family: 'Open Sans', sans-serif;
+	font-family: Georgia, serif;
 }
 
 th {
@@ -112,7 +92,7 @@ footer {
 }
 
 body {
-	font-family: 'Gentium Book Basic', serif;
+	font-family: Georgia, serif;
 	background-color: #fff9e6;
 }
 
@@ -121,7 +101,6 @@ figure {
 }
 
 p {
-	font-size: 20px;
 	padding: 5px;
 }
 
@@ -129,7 +108,6 @@ ul{
 	list-style-type: square;
 	color:navy;
 	text-align:left;
-	font-size: 15px;
 }
 
 ol {
@@ -205,6 +183,14 @@ figcaption {
 
 .column-value2 {
 	background-color: orange;
+	color:navy;
+	padding: 10px;
+	display: block;
+	margin: auto;
+}
+
+.column-value3 {
+	background-color: #d9d9d9;
 	color:navy;
 	padding: 10px;
 	display: block;

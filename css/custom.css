@@ -1,8 +1,6 @@
-
 .column, .columns {
     margin:0;
 }
-
 
 p.clear {
     clear: both;
@@ -63,19 +61,18 @@ color: black;
 }
 
 h2 {
+	font-size: 45px;
 	color: #660000;
 	font-style:italic;
-
 }
 
 h3 {
+	font-size: 36px;
 	text-align: center;
-
 }
 
 h4 {
 	text-align: center;
-
 }
 
 .column-value {
@@ -84,7 +81,7 @@ h4 {
 }
 
 html {
-	font-family:Georgia, serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 th {
@@ -93,20 +90,16 @@ th {
 
 td, th {border-bottom: 1px solid #b30000;
 	text-align: center;
-
 }
 
 tbody tr:nth-child(odd) {
    background-color: #ffcc80;
 }
 
-
 tbody tr:nth-child(1) {
    background-color: teal;
    border: none;
 }
-
-
 
 footer {
 	margin: 0;
@@ -119,7 +112,7 @@ footer {
 }
 
 body {
-	font-family:Georgia, serif;
+	font-family: 'Gentium Book Basic', serif;
 	background-color: #fff9e6;
 }
 
@@ -127,22 +120,22 @@ figure {
 	position: center;
 }
 
+p {
+	font-size: 20px;
+	padding: 5px;
+}
+
 ul{
 	list-style-type: square;
 	color:navy;
 	text-align:left;
+	font-size: 15px;
 }
 
 ol {
 	background-color: teal;
 	color:white;
 	padding:10px;
-
-}
-
-
-p{
-	padding: 5px;
 }
 
 .column1 {
@@ -153,7 +146,6 @@ p{
 	background: #d9d9d9;
 	height: auto;
 	text-align: justify;
-
 }
 
 .column2 {
@@ -165,7 +157,6 @@ p{
 	color: #fff9e6;;
 	height: auto;
 	text-align: justify;
-
 }
 
 .Citations {
@@ -173,28 +164,24 @@ p{
 	clear: both;
 }
 
-img{
+img {
 	display: block;
-	margin: auto;}
+	margin: auto;
+}
 
-video{
-
+video {
 	display: block;
 	margin: 0 auto;
 }
 
 figure img {
-
 	display: block;
-	margin: auto;
-
-	
+	margin: auto;	
 }
 
 figcaption {
 	text-align: center;
 }
-
 
 #photo img {
 	padding: 0;
@@ -204,10 +191,9 @@ figcaption {
 
 #photo {
 	margin: 0;
-		display: block;
+	display: block;
 	margin: auto;
 }
-
 
 .column-value1 {
 	background-color: #660000;
@@ -215,7 +201,6 @@ figcaption {
 	padding: 10px;
 	display: block;
 	margin: auto;
-
 }
 
 .column-value2 {
@@ -224,14 +209,11 @@ figcaption {
 	padding: 10px;
 	display: block;
 	margin: auto;
-
-
 }
 
 #value-multiplier1 {
 	color: white;
 }
-
 
 @media (max-width: 1100px) {
 
@@ -241,15 +223,14 @@ figcaption {
   }
 
    .column1  {
-    	width:100%;
-      max-width: none;
-    	vertical-align: top;
-      max-width: none;
+    width:100%;
+    max-width: none;
+    vertical-align: top;
+    max-width: none;
   }
 
   article.column1 {
   	width:100%;
-
   }
 
   .column2 {
@@ -257,35 +238,37 @@ figcaption {
     max-width: none;
   	vertical-align: top;
     float:right;
-
   }
+  
   article.column2 {
   	width:100%;
-
   }
 }
+
 li:first-child {
 	display: none;
 	}
+
 /*for phone*/
 @media only screen and (max-width: 700px) {
    	li:not(:first-child) {
 		display: none;
 	}
+	
 	li:first-child {
 		display: inline;
 	}
+	
 	ul {
 		width: 100%;
 		background-color: #d9d9d9;
-
 	}
+	
 	li {
 		width: 100%;
- 
 	}
+	
 	.button {
 		width: 100%;
 	}
-   
 }

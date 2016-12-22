@@ -168,7 +168,7 @@ img{
 video{
 
 	display: block;
-	margin:  auto;
+	margin: 0 auto;
 }
 
 figure img {

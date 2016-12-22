@@ -22,6 +22,7 @@ padding: 0;
 .horizontal-nav a {
 background: teal;
 color:white;
+font-family:'Kaushan Script', cursive;
 font-weight: bold;
 text-decoration: none;
 }
@@ -44,19 +45,17 @@ iframe{display: block;
 	margin: 0 auto;
 }
 	
-
+h1{
+	font-family:'Kaushan Script', cursive;
+}
 h2 {
 	color: #660000;
-	font-style:italic;
+	font-family:'Kaushan Script', cursive;
 
 }
 
-h3 {
-	text-align: center;
-
-}
-
-h4 {
+h3, h4 {
+	font-family:'Kaushan Script', cursive;
 	text-align: center;
 
 }
@@ -104,7 +103,7 @@ footer {
 }
 
 body {
-	font-family:'Kaushan Script', cursive;
+	font-family: 'Slabo 27px', serif;
 	background-color: #fff9e6;
 }
 
@@ -116,9 +115,6 @@ ul{
 	list-style-type: square;
 	color:navy;
 	text-align:left;
-
-
-
 }
 
 ol {
